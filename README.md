@@ -15,11 +15,11 @@
 <br>
 
 # 💫 About Me:
-- 🌱 Creating AI Agents with **Langchai,Langgraph,Autogen,CrewAI**
+- 🌱 Exploring AI Agents with **Langchain,Langgraph,Autogen,CrewAI**
 
 - 💬 **DSA** with Java
 
-- 🌐 Backend with **Django** 
+- 🌐 Building Backend applications with **Django** 
 
 - 📫 How to reach me **achintyabarman010@gmail.com**
 
